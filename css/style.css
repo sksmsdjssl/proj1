@@ -12,6 +12,9 @@ h3{font-size: 0.937rem;display: inline-block;}
     transform:rotate(-45deg);position:absolute;top:0px;}
 
 /*********************section****************************/
+
+
+
 #sec2 .inner{position: relative;}
 #sec2 .notice,#sec2 .purp{width:500px;height:100px;
              /*width:calc((100% - 50px)/2)*/
@@ -62,5 +65,10 @@ h3{font-size: 0.937rem;display: inline-block;}
 
     position: relative;
  }  
- 
-#sec5 h2,#sec5 h3{display: block;}
+#sec5
+#sec5 h2,#sec5 h3{display: block; margin-bottom: 35px;}
+#sec5 .sec5_title{width: 400px; float: left; margin-right: 35px;}
+#sec5 .sec5_title img{width: 100%;}
+#sec5 .sec5_cont{width:calc(100% - 435px); float: left;}
+
+
